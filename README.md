@@ -475,7 +475,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Found a bug or have a feature request? Please open an issue on the [GitHub repository](https://github.com/rafaelb13/keycloak-totp-spi/issues).
 
 ---
-
-<div align="center">
-Made with ❤️ by <a href="https://github.com/rafaelb13">Rafael B13</a>
-</div>
