@@ -22,7 +22,7 @@
 <td>
 
 ### 🔑 Core Capabilities
-- **Generate TOTP secrets** with QR codes
+- **Generate TOTP secrets** with QR code
 - **Register TOTP credentials** for users
 - **Verify TOTP codes** with flexible device support
 - **Manage multiple devices** per user
